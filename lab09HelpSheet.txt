@@ -1,0 +1,5 @@
+A chained hash table indexes into an array of pointers to the heads of linked lists.
+An open addressing hash table indexes  into an array of pointers to pairs of (key, value), if the spot is already taken you must try a different node that is close, these alterations are called collisons.
+
+
+readme:
